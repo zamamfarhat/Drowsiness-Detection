@@ -1,4 +1,4 @@
-# Drowsiness-Detection (Drowsiness Detection based on RGB camera and evolving fuzzy model)
+# Drowsiness-Detection Based on RGB camera and evolving Fuzzy model
 This repository contains the implementation of a real-time Driver Drowsiness Detection System designed to enhance road safety. By leveraging cutting-edge deep learning models combined with Fuzzy Inference Systems (FIS) for interpretability and Neural Architecture Search (NAS) for optimization, this system offers a scalable, accurate, and efficient solution for detecting driver fatigue in diverse and challenging conditions.
 
 ## Features
