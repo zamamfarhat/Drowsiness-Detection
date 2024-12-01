@@ -2,10 +2,10 @@
 This repository contains the implementation of a real-time Driver Drowsiness Detection System designed to enhance road safety. By leveraging cutting-edge deep learning models combined with Fuzzy Inference Systems (FIS) for interpretability and Neural Architecture Search (NAS) for optimization, this system offers a scalable, accurate, and efficient solution for detecting driver fatigue in diverse and challenging conditions.
 
 ## Features
-**Baseline Models:** Implements and evaluates machine learning and deep learning models such as ResNet, InceptionV3, DenseNet121, CNN, SVM, Decision Tree, and Random Forest.
-**Hybrid Models:** Enhanced versions of baseline models integrated with FIS and NAS, significantly improving detection accuracy, robustness, and interpretability.
-**Real-World Adaptability:** Optimized for varying conditions, including low-light environments, occlusions, and diverse driver demographics.
-**Comprehensive Visualization:** Training curves, confusion matrices, and performance metrics are provided to offer insights into model performance.
+- **Baseline Models:** Implements and evaluates machine learning and deep learning models such as ResNet, InceptionV3, DenseNet121,         CNN, SVM, Decision Tree, and Random Forest.
+- **Hybrid Models:** Enhanced versions of baseline models integrated with FIS and NAS, significantly improving detection accuracy,         robustness, and interpretability.
+- **Real-World Adaptability:** Optimized for varying conditions, including low-light environments, occlusions, and diverse driver         demographics.
+- **Comprehensive Visualization:** Training curves, confusion matrices, and performance metrics are provided to offer insights into         model performance.
 
 ## Confusion Matrix
 | | Predicted: Non-Drowsy |	Predicted: Drowsy | Total |
